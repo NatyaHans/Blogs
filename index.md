@@ -1,4 +1,4 @@
-# Workshon on making a package in R 
+# Workshop on making a package in R 
 
 ## Date and Time: 
 March 1st 2022, 2:00 pm EST 
