@@ -55,7 +55,9 @@ install.packages("flexdashboard")
 5. After knitting the flexboard structure should appear as follows.
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image5.png" alt="Slide" style="width:50%">
 
-Now that we know how to make a basic flexdashboard, we can make reports on 
+Now that we know how to make a basic flexdashboard, we can make reports on anything.
+
+## FlexDashboard on Transcriptomics data 
 
 
 
