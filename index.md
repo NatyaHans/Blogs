@@ -49,6 +49,12 @@ install.packages("flexdashboard")
 - Now you should see an Rstudio window that looks like this:
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image3.png" alt="Slide" style="width:50%">
 
+- Now you should see an Rstudio window that looks like this:
+<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image4.png" alt="Slide" style="width:50%">
+
+- Now you should see an Rstudio window that looks like this:
+<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image5.png" alt="Slide" style="width:50%">
+
 
 - For more help, please feel free to contact the Instructor.
 - For other tutorials from the Instructor [visit](https://natyahans.github.io/year-archive/)
