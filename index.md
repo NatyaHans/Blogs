@@ -1,4 +1,4 @@
-# Workshop on FlexDashboard in R  
+# Workshop on using FlexDashboard in R  
 
 ## Date and Time: 
 March 1st 2022, 2:00 pm EST 
@@ -13,13 +13,15 @@ Natya Hans
 Email: nhans@ufl.edu
 Follow me on [Twitter](https://twitter.com/HansNatya)
 
+## Materials
+Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
 
-# Pre-requisite
+## Pre-requisite
 1. Download [R](https://cran.r-project.org/)
 2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 3. Install packages 
 
-Note for installing packages: 
+### Note for installing packages: 
 
 ```
 install.packages("PACKAGENAME")
@@ -31,6 +33,17 @@ For example to download flexdashboard package:
 ```
 install.packages("flexdashboard")
 ```
+
+## Getting Started
+For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
+
+
+
+For more help, please feel free to contact the Instructor.
+For help on flexdashboards and templates [click](https://pkgs.rstudio.com/flexdashboard/)
+
+
+
 
 <!--- You can use the [editor on GitHub](https://github.com/NatyaHans/Blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
