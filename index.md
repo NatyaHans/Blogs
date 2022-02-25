@@ -39,21 +39,30 @@ install.packages("flexdashboard")
 ```
 
 ## Getting Started
-- For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
+1. For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image1.png" alt="Slide" style="width:50%">
 
-- Then select from templates flexdashboard and click ok
+2. Then select from templates flexdashboard and click ok
 
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image2.png" alt="Slide" style="width:50%">
 
-- Now you should see an Rstudio window that looks like this:
+3. Now you should see an Rstudio window that looks like this:
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image3.png" alt="Slide" style="width:50%">
 
-- Now you should see an Rstudio window that looks like this:
+4. You can see a base flexboard structure. This can be knit by using Knit drop down dialog and clicking on knit to flex_dashboard
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image4.png" alt="Slide" style="width:50%">
 
-- Now you should see an Rstudio window that looks like this:
+5. After knitting the flexboard structure should appear as follows.
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image5.png" alt="Slide" style="width:50%">
+
+Now that we know how to make a basic flexdashboard, we can make reports on 
+
+
+
+# Common Errors:
+- Required packages are not installed, so please make sure you don't see an error like this (in red). RStudio should give you an option on top to install missing packges.
+<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image6.png" alt="Slide" style="width:50%">
+
 
 
 - For more help, please feel free to contact the Instructor.
