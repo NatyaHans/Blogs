@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+# Workshon on making a package in R 
+
+## Date and Time: 
+March 1st 2022, 2:00 pm EST 
+
+## Location: 
+- In person: Health Science Library 
+
+- Virtual : Zoom [link]() 
+
+## 
+
+
+# Pre-requisite
+1. Download [R](
+2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+3. Install packages 
 
 You can use the [editor on GitHub](https://github.com/NatyaHans/Blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
