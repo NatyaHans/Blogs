@@ -9,9 +9,11 @@ March 1st 2022, 2:00 pm EST
 - Virtual : Zoom [link](https://ufl.zoom.us/j/6922131308) | MeetingID : 6922131308
 
 ## Instructor Information:
-Natya Hans
-Email: nhans@ufl.edu
-Follow me on [Twitter](https://twitter.com/HansNatya)
+**Name** Natya Hans
+**Affiliation** Ph.D. candidate, University of Florida
+**Email:** nhans@ufl.edu
+
+**[Twitter]**(https://twitter.com/HansNatya)
 
 ## Materials
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
