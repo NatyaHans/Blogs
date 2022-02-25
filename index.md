@@ -35,15 +35,16 @@ install.packages("flexdashboard")
 ```
 
 ## Getting Started
-For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
+- For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
 <img src="https://github.com/NatyaHans/Blogs/blob/master/Images/image1.png" alt="Slide" style="width:50%">
 
-Then select from templates flexdashboard and click ok
+- Then select from templates flexdashboard and click ok
 
 <img src="https://github.com/NatyaHans/Blogs/blob/master/Images/image2.png" alt="Slide" style="width:50%">
 
-Now you should see an Rstudio window that looks like this:
+- Now you should see an Rstudio window that looks like this:
 <img src="https://github.com/NatyaHans/Blogs/blob/master/Images/image3.png" alt="Slide" style="width:50%">
+
 
 - For more help, please feel free to contact the Instructor.
 - For other tutorials from the Instructor [visit](https://natyahans.github.io/year-archive/)
