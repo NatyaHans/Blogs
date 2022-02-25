@@ -10,10 +10,12 @@ March 1st 2022, 2:00 pm EST
 
 ## Instructor Information:
 **Name** Natya Hans
+
 **Affiliation** Ph.D. candidate, University of Florida
+
 **Email:** nhans@ufl.edu
 
-**[Twitter]**(https://twitter.com/HansNatya)
+Follow me on [Twitter](https://twitter.com/HansNatya)
 
 ## Materials
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
