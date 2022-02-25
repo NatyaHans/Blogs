@@ -36,14 +36,14 @@ install.packages("flexdashboard")
 
 ## Getting Started
 - For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
-<img src="https://github.com/NatyaHans/Blogs/blob/master/Images/image1.png" alt="Slide" style="width:50%">
+<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image1.png" alt="Slide" style="width:50%">
 
 - Then select from templates flexdashboard and click ok
 
-<img src="https://github.com/NatyaHans/Blogs/blob/master/Images/image2.png" alt="Slide" style="width:50%">
+<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image2.png" alt="Slide" style="width:50%">
 
 - Now you should see an Rstudio window that looks like this:
-<img src="https://github.com/NatyaHans/Blogs/blob/master/Images/image3.png" alt="Slide" style="width:50%">
+<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image3.png" alt="Slide" style="width:50%">
 
 
 - For more help, please feel free to contact the Instructor.
@@ -51,7 +51,7 @@ install.packages("flexdashboard")
 - For help on flexdashboards and templates [click](https://pkgs.rstudio.com/flexdashboard/)
 
 
-<!--- You can use the [editor on GitHub](https://github.com/NatyaHans/Blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!--- You can use the [editor on GitHub](https://github.com/NatyaHans/Workshops/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
