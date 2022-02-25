@@ -6,7 +6,7 @@ March 1st 2022, 2:00 pm EST
 ## Location: 
 - In person: Health Science Library 
 
-- Virtual : Zoom [link](https://ufl.zoom.us/j/6922131308)| MeetingID : 6922131308
+- Virtual : Zoom [link](https://ufl.zoom.us/j/6922131308) | MeetingID : 6922131308
 
 ## Instructor Information:
 Natya Hans
