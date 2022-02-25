@@ -1,4 +1,4 @@
-# Workshop on making a package in R 
+# Workshop on FlexDashboard in R  
 
 ## Date and Time: 
 March 1st 2022, 2:00 pm EST 
@@ -6,17 +6,33 @@ March 1st 2022, 2:00 pm EST
 ## Location: 
 - In person: Health Science Library 
 
-- Virtual : Zoom [link]() 
+- Virtual : Zoom [link](https://ufl.zoom.us/j/6922131308)| MeetingID : 6922131308
 
-## 
+## Instructor Information:
+Natya Hans
+Email: nhans@ufl.edu
+Follow me on [Twitter](https://twitter.com/HansNatya)
 
 
 # Pre-requisite
-1. Download [R](
+1. Download [R](https://cran.r-project.org/)
 2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 3. Install packages 
 
-You can use the [editor on GitHub](https://github.com/NatyaHans/Blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Note for installing packages: 
+
+```
+install.packages("PACKAGENAME")
+```
+Please replace PACKAGENAME by the name of package to download and PACKAGENAME should be within quotes.
+
+For example to download flexdashboard package:
+
+```
+install.packages("flexdashboard")
+```
+
+<!--- You can use the [editor on GitHub](https://github.com/NatyaHans/Blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -51,3 +67,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+--->
