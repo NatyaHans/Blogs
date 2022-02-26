@@ -1,22 +1,13 @@
-# 1. Downloading Genomic Data from NCBI
-
-
-# 2. Using HiPerGator and RAxML to build a phylogenetic tree 
-Tutorial can be found here :
-https://natyahans.github.io/posts/2019/05/RunningRAxML/ 
-
-
-# 3. Workshop on using FlexDashboard in R  
-
-## Date and Time: 
+#
+### Date and Time: 
 March 1st 2022, 2:00 pm EST 
 
-## Location: 
+### Location: 
 - In person: Health Science Library 
 
 - Virtual : Zoom [link](https://ufl.zoom.us/j/6922131308) | MeetingID : 6922131308
 
-## Instructor Information:
+### Instructor Information:
 **Name** Natya Hans
 
 **Affiliation** Ph.D. candidate, University of Florida
@@ -25,15 +16,23 @@ March 1st 2022, 2:00 pm EST
 
 Follow me on [Twitter](https://twitter.com/HansNatya)
 
-## Materials
+### Materials
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
+## 1. Downloading Genomic Data from NCBI
 
-## Pre-requisite
+
+## 2. Using HiPerGator and RAxML to build a phylogenetic tree 
+Tutorial can be found here :
+https://natyahans.github.io/posts/2019/05/RunningRAxML/ 
+
+
+## 3. Workshop on using FlexDashboard in R  
+### Pre-requisite
 1. Download [R](https://cran.r-project.org/)
 2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 3. Install packages 
 
-### Note for installing packages: 
+#### Note for installing packages: 
 
 ```
 install.packages("PACKAGENAME")
@@ -46,7 +45,7 @@ For example to download flexdashboard package:
 install.packages("flexdashboard")
 ```
 
-## Getting Started
+### Getting Started
 1. For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image1.png" alt="Slide" style="width:50%">
 
@@ -65,11 +64,11 @@ install.packages("flexdashboard")
 
 Now that we know how to make a basic flexdashboard, we can make reports on anything.
 
-## FlexDashboard on Transcriptomics data 
+### FlexDashboard on Transcriptomics data 
 
 
 
-# Common Errors:
+### Common Errors:
 - Required packages are not installed, so please make sure you don't see an error like this (in red). RStudio should give you shortcut on top to install missing packges.
 <img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image6.png" alt="Slide" style="width:50%">
 
