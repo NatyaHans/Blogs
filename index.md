@@ -20,7 +20,7 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
 
 ## Workshop 1. Downloading Genomic Data from NCBI
-![BLAST]("https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig1.png")
+![BLAST](https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig1.png)
 
 ## Workshop 2. Using HiPerGator and RAxML to build a phylogenetic tree 
 Tutorial can be found here :
