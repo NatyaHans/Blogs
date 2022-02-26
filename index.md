@@ -1,4 +1,12 @@
-# Workshop on using FlexDashboard in R  
+# 1. Downloading Genomic Data from NCBI
+
+
+# 2. Using HiPerGator and RAxML to build a phylogenetic tree 
+Tutorial can be found here :
+https://natyahans.github.io/posts/2019/05/RunningRAxML/ 
+
+
+# 3. Workshop on using FlexDashboard in R  
 
 ## Date and Time: 
 March 1st 2022, 2:00 pm EST 
