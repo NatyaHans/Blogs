@@ -64,20 +64,20 @@ install.packages("flexdashboard")
 
 ### Getting Started
 1. For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image1.png" alt="Slide" style="width:50%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image1.png" alt="Slide" style="width:70%">
 
 2. Then select from templates flexdashboard and click ok
 
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image2.png" alt="Slide" style="width:50%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image2.png" alt="Slide" style="width:70%">
 
 3. Now you should see an Rstudio window that looks like this:
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image3.png" alt="Slide" style="width:50%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image3.png" alt="Slide" style="width:70%">
 
 4. You can see a base flexboard structure. This can be knit by using Knit drop down dialog and clicking on knit to flex_dashboard
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image4.png" alt="Slide" style="width:50%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image4.png" alt="Slide" style="width:70%">
 
 5. After knitting the flexboard structure should appear as follows.
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image5.png" alt="Slide" style="width:50%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image5.png" alt="Slide" style="width:70%">
 
 Now that we know how to make a basic flexdashboard, we can make reports on anything.
 
@@ -87,7 +87,7 @@ Now that we know how to make a basic flexdashboard, we can make reports on anyth
 
 ### Common Errors:
 - Required packages are not installed, so please make sure you don't see an error like this (in red). RStudio should give you shortcut on top to install missing packges.
-<img src="https://github.com/NatyaHans/Workshops/blob/master/Images/image6.png" alt="Slide" style="width:50%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image6.png" alt="Slide" style="width:70%">
 
 
 
