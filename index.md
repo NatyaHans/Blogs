@@ -31,12 +31,22 @@ Today's workshop slides can be downloaded [here]() and for the Markdown file cli
 - Let's click on Nucleotides (~4,070,899 Nucleotide records as of Feb, 25th 2022)
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig3.png" alt="Slide" style="width:90%">
 
-- You will see several columns with Accession Number, the data Submitter, dates and molecule type etc. 
+- You will see several columns with Accession Number, the data Submitter, dates and molecule type etc.  Let's click on Dashboard to get an interactive dashboard with covid-19 data. You can lean in on a specific geographic location, to look at data collection and release dates. We are going to create a similar dashboard in the third part of this workshop series. 
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig4.png" alt="Slide" style="width:90%">
+
+- You can also click on the complete tree tab to get details and build phylogenetic tree with all the data.
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig6.png" alt="Slide" style="width:90%">
+
+- You can also expand on algorithm and parameters to check the details of how this tree was build. We are going to build a similar tree in second workshop in this series using HiPerGator and RAxML with small number of sequences.
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig7.png" alt="Slide" style="width:90%">
+
+- You can also go back and select sequences and use those sequences for building the tree. For simplicity sake, I selected the 38 RefSeq proteins, which have a shortcut available in the Dashboard Visualizations.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig5.png" alt="Slide" style="width:90%">
 
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig4.png" alt="Slide" style="width:90%">
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig6.png" alt="Slide" style="width:90%">
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig7.png" alt="Slide" style="width:90%">
+- Then you can click on Build a phylogentic tree.
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig10.png" alt="Slide" style="width:90%">
+
+- You should see a tree with less seqeunces like this.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig9.png" alt="Slide" style="width:90%">
 
 ## Workshop 2. Using HiPerGator and RAxML to build a phylogenetic tree 
