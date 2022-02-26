@@ -20,23 +20,24 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
 
 ## Workshop 1. Downloading Genomic Data from NCBI
-Let's first click on the following [url](https://blast.ncbi.nlm.nih.gov/Blast.cgi) or paste https://blast.ncbi.nlm.nih.gov/Blast.cgi into the browser to get to NCBI BLAST page.
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig1.png" alt="Slide" style="width:70%">
+- Let's first click on the following [url](https://blast.ncbi.nlm.nih.gov/Blast.cgi) or paste https://blast.ncbi.nlm.nih.gov/Blast.cgi into the browser to get to NCBI BLAST page.
 
-On the top of this page, we can see resources and shortcuts for SARS-COV2 data. Clicking on it will take you to the following site.
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig1.png" alt="Slide" style="width:90%">
 
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig2.png" alt="Slide" style="width:70%">
+- On the top of this page, we can see resources and shortcuts for SARS-COV2 data. Clicking on it will take you to the following site.
 
-Let's click on Nucleotides (~4,070,899 Nucleotide records as of Feb, 25th 2022)
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig3.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig2.png" alt="Slide" style="width:90%">
 
-You will see several columns with Accession Number, the data Submitter, dates and molecule type etc. 
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig5.png" alt="Slide" style="width:70%">
+- Let's click on Nucleotides (~4,070,899 Nucleotide records as of Feb, 25th 2022)
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig3.png" alt="Slide" style="width:90%">
 
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig4.png" alt="Slide" style="width:70%">
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig6.png" alt="Slide" style="width:70%">
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig7.png" alt="Slide" style="width:70%">
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig9.png" alt="Slide" style="width:70%">
+- You will see several columns with Accession Number, the data Submitter, dates and molecule type etc. 
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig5.png" alt="Slide" style="width:90%">
+
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig4.png" alt="Slide" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig6.png" alt="Slide" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig7.png" alt="Slide" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig9.png" alt="Slide" style="width:90%">
 
 ## Workshop 2. Using HiPerGator and RAxML to build a phylogenetic tree 
 Tutorial can be found here :
@@ -64,20 +65,20 @@ install.packages("flexdashboard")
 
 ### Getting Started
 1. For creating a flexdashboard, we first need to create a R markdown document. This is done from RStudio New R Markdown dialog:
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image1.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image1.png" alt="Slide" style="width:90%">
 
 2. Then select from templates flexdashboard and click ok
 
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image2.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image2.png" alt="Slide" style="width:90%">
 
 3. Now you should see an Rstudio window that looks like this:
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image3.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image3.png" alt="Slide" style="width:90%">
 
 4. You can see a base flexboard structure. This can be knit by using Knit drop down dialog and clicking on knit to flex_dashboard
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image4.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image4.png" alt="Slide" style="width:90%">
 
 5. After knitting the flexboard structure should appear as follows.
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image5.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image5.png" alt="Slide" style="width:90%">
 
 Now that we know how to make a basic flexdashboard, we can make reports on anything.
 
@@ -87,7 +88,7 @@ Now that we know how to make a basic flexdashboard, we can make reports on anyth
 
 ### Common Errors:
 - Required packages are not installed, so please make sure you don't see an error like this (in red). RStudio should give you shortcut on top to install missing packges.
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image6.png" alt="Slide" style="width:70%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/image6.png" alt="Slide" style="width:90%">
 
 
 
