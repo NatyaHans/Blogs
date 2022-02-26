@@ -1,4 +1,4 @@
-# Analyzing data and creating a COVID-19 Dashboard from Public Database
+# Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
 ### Date and Time: 
 March 1st 2022, 2:00 pm EST 
 
@@ -18,15 +18,15 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 
 ### Materials
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
-## 1. Downloading Genomic Data from NCBI
+## Workshop 1. Downloading Genomic Data from NCBI
 
 
-## 2. Using HiPerGator and RAxML to build a phylogenetic tree 
+## Workshop 2. Using HiPerGator and RAxML to build a phylogenetic tree 
 Tutorial can be found here :
 https://natyahans.github.io/posts/2019/05/RunningRAxML/ 
 
 
-## 3. Workshop on using FlexDashboard in R  
+## Workshop 3. Workshop on using FlexDashboard in R  
 ### Pre-requisite
 1. Download [R](https://cran.r-project.org/)
 2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
