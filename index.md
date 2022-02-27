@@ -1,4 +1,4 @@
-## Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
+# Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
 
 ### Date and Time: 
 March 1st 2022, 2:00 pm EST 
@@ -20,7 +20,7 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 ### Materials
 Today's workshop slides can be downloaded [here]() and for the Markdown file click [here]()
 
-## Workshop 1. Downloading Genomic Data from NCBI
+# Workshop 1. Downloading Genomic Data from NCBI
 - Let's first click on the following [url](https://blast.ncbi.nlm.nih.gov/Blast.cgi) or paste https://blast.ncbi.nlm.nih.gov/Blast.cgi into the browser to get to NCBI BLAST page.
 
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig1.png" alt="Slide" style="width:90%">
@@ -50,7 +50,7 @@ Today's workshop slides can be downloaded [here]() and for the Markdown file cli
 - You should see a tree with less seqeunces like this.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig9.png" alt="Slide" style="width:90%">
 
-## Workshop 2. Using HiPerGator to build a phylogenetic tree 
+# Workshop 2. Using HiPerGator to build a phylogenetic tree 
 The first step is to make a sequence alignment using Alignment software available on HiPerGator.
 
 1. Transfering files from your local computer to HiPerGator:
@@ -68,7 +68,7 @@ Tutorial can be found here : [RAxML tutorial](https://natyahans.github.io/posts/
  
 
 
-## Workshop 3. Workshop on using FlexDashboard in R  
+# Workshop 3. Workshop on using FlexDashboard in R  
 ### Pre-requisite
 1. Download [R](https://cran.r-project.org/)
 2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
