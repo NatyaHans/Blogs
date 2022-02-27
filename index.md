@@ -1,7 +1,3 @@
----
-title: Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
----
-
 Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
 
 ### Date and Time: 
