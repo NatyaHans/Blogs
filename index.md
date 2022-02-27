@@ -1,4 +1,5 @@
-# Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
+## Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
+
 ### Date and Time: 
 March 1st 2022, 2:00 pm EST 
 
@@ -53,10 +54,10 @@ Today's workshop slides can be downloaded [here]() and for the Markdown file cli
 The first step is to make a sequence alignment using Alignment software available on HiPerGator.
 
 1. Transfering files from your local computer to HiPerGator:
-Tutorial can be found here : [RAxML tutorial](https://natyahans.github.io/posts/2019/05/RunningRAxML/)
+Tutorial can be found here : [File Transfer](https://natyahans.github.io/posts/2019/04/FileTransferHiPerGator)
 
 2. Making an alignment in phylip format:
-https://natyahans.github.io/posts/2019/05/RunningRAxML/
+Tutorial can be found here : [Clustal Alignment](https://natyahans.github.io/posts/2019/04/FileTransferHiPerGator)
 
 You can then use this alignment file to then build a phylogenetic tree. 
 
