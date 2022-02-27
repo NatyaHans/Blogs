@@ -17,8 +17,12 @@ March 1st 2022, 2:00 pm EST
 
 Follow me on [Twitter](https://twitter.com/HansNatya)
 
-### Materials
-Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentations.pdf).
+### Materials 
+- Workshop1
+Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentations.pdf). 
+
+- Workshop3
+The R markdown for the dashboard can be downloaded [here]().
 
 # Workshop 1. Downloading Genomic Data from NCBI
 - Let's first click on the following [url](https://blast.ncbi.nlm.nih.gov/Blast.cgi) or paste https://blast.ncbi.nlm.nih.gov/Blast.cgi into the browser to get to NCBI BLAST page.
