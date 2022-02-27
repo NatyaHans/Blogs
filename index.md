@@ -55,6 +55,7 @@ Today's workshop slides can be downloaded [here]() and for the Markdown file cli
 - You should see a tree with less seqeunces like this.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/fig9.png" alt="Slide" style="width:90%">
 
+- Now we can select sequences 
 # Workshop 2. Using HiPerGator to build a phylogenetic tree 
 The first step is to make a sequence alignment using Alignment software available on HiPerGator.
 
@@ -69,8 +70,6 @@ You can then use this alignment file to then build a phylogenetic tree.
 3. Making a phylogenetic tree using RAxML
 Tutorial can be found here : [RAxML tutorial](https://natyahans.github.io/posts/2019/05/RunningRAxML/)
 
-
- 
 
 
 # Workshop 3. Workshop on using FlexDashboard in R  
@@ -111,7 +110,7 @@ install.packages("flexdashboard")
 
 Now that we know how to make a basic flexdashboard, we can make reports on anything.
 
-### FlexDashboard on Transcriptomics data 
+### FlexDashboard for SARS-COV2 Data
 
 
 
