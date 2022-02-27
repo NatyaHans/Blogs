@@ -1,6 +1,9 @@
 ---
 title: Workshop Series: Analyzing data and creating a COVID-19 Dashboard from Public Database
 ---
+### WHAT 
+### WHO
+### WHEN
 
 ### Date and Time: 
 March 1st 2022, 2:00 pm EST 
