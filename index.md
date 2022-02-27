@@ -56,6 +56,8 @@ The R markdown for the dashboard can be downloaded [here]().
 
 - Now we can select sequences based on several parameters listed here on the right. 
 
+
+
 # Workshop 2. Using HiPerGator to build a phylogenetic tree 
 The first step is to make a sequence alignment using Alignment software available on HiPerGator.
 
