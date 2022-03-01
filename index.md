@@ -21,15 +21,32 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 - Workshop1
 Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentation.pdf).
 
-# Workshop 1: 
+# Workshop 1: Downloading SARS-CoV2 data 
+- Access the NCBI website through the health science libary Quick links -> Database
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.017.jpeg" alt="Slide17" style="width:90%">
+
+- From the list of databases you can click on NCBI.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.018.jpeg" alt="Slide18" style="width:90%">
+
+- We land on NCBI homepage, which can be used to submit and download data. If you are interested in developing tools, or learning more about NCBI, there are resources available on the homepage
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.019.jpeg" alt="Slide19" style="width:90%">
+
+- Let's utilize the quick link for SARS-CoV2 data on the top of the home page. 
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.020.jpeg" alt="Slide20" style="width:90%">
+
+-  You can see the records of nucleotide sequences, protein sequences, scientific journals, clinical trial and SRA (Short read archive) information ( as of Feb 25th). Let's click on the nuecleotide records to expand more.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.021.jpeg" alt="Slide21" style="width:90%">
+
+- We observe that there are more than 4 million nucleotide records available on NCBI. Let's click on the interactive dashboard to see what that looks like
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.022.jpeg" alt="Slide22" style="width:90%">
+
+- We can zoom in to geographic location and filter the sample collection date by weekly, monthly and daily drop down options and the release date by Genbank ( the date when the data became available to download)
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.023.jpeg" alt="Slide23" style="width:90%">
+
+- For example we can narrow in on the samples collected from Florida on a weekly basis.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.024.jpeg" alt="Slide24" style="width:90%">
+
+
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.025.jpeg" alt="Slide25" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.026.jpeg" alt="Slide26" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.027.jpeg" alt="Slide27" style="width:90%">
