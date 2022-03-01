@@ -64,13 +64,24 @@ Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Work
 - What you see now is a phylogenetic tree which depicts evolutionary relationships between individuals. 
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.030.jpeg" alt="Slide30" style="width:90%">
 
-
+- We can also select what columns need to be displayed in the tabular form. This helps you determine what to download in table. So click on "Select Columns"
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.031.jpeg" alt="Slide31" style="width:90%">
+
+- There are a lot of parameters you can refine by, you can add and remove teh information on the tabular view.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.032.jpeg" alt="Slide32" style="width:90%">
+
+- Now let's select all the sequences and click download.( Read the next step before you click download)
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.033.jpeg" alt="Slide33" style="width:90%">
+
+- But let's pause because we are downloading sequences in fasta format. What is fasta format?
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentation2.001.jpeg" alt="Slide34" style="width:90%">
+
+- Now that you understand the format, we can begin to download the nucleotide sequence, of the selected record.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.035.jpeg" alt="Slide35" style="width:90%">
+
+- We can also build a custom definition/header line.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.036.jpeg" alt="Slide36" style="width:90%">
+
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.037.jpeg" alt="Slide37" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.038.jpeg" alt="Slide38" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.039.jpeg" alt="Slide39" style="width:90%">
