@@ -19,7 +19,7 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 
 ### Materials 
 - Workshop1
-Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentations.pdf). 
+Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentation.pdf). 
 
 - Workshop3
 The R markdown for the dashboard can be downloaded [here]().
