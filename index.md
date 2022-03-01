@@ -19,11 +19,33 @@ Follow me on [Twitter](https://twitter.com/HansNatya)
 
 ### Materials 
 - Workshop1
-Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentation.pdf). 
+Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Workshops/docs/SARSCoVPresentation.pdf).
 
-- Workshop3
-The R markdown for the dashboard can be downloaded [here]().
-
+# Workshop 1: 
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.017.jpeg" alt="Slide17" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.018.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.019.jpeg" alt="Slide19" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.020.jpeg" alt="Slide20" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.021.jpeg" alt="Slide21" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.022.jpeg" alt="Slide22" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.023.jpeg" alt="Slide23" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.024.jpeg" alt="Slide24" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.025.jpeg" alt="Slide25" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.026.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.027.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.028.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.029.jpeg" alt="Slide17" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.030.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.031.jpeg" alt="Slide19" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.032.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.033.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.034.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.035.jpeg" alt="Slide17" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.036.jpeg" alt="Slide18" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.037.jpeg" alt="Slide19" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.038.jpeg" alt="Slide38" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.039.jpeg" alt="Slide39" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.040.jpeg" alt="Slide40" style="width:90%">
 # Workshop 1. Downloading Genomic Data from NCBI
 - Let's first click on the following [url](https://blast.ncbi.nlm.nih.gov/Blast.cgi) or paste https://blast.ncbi.nlm.nih.gov/Blast.cgi into the browser to get to NCBI BLAST page.
 
@@ -79,6 +101,9 @@ Tutorial can be found here : [RAxML tutorial](https://natyahans.github.io/posts/
 1. Download [R](https://cran.r-project.org/)
 2. Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 3. Install packages 
+
+- Workshop3
+The R markdown for the dashboard can be downloaded [here]().
 
 #### Note for installing packages: 
 
