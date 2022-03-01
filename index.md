@@ -68,7 +68,7 @@ Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Work
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.031.jpeg" alt="Slide31" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.032.jpeg" alt="Slide32" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.033.jpeg" alt="Slide33" style="width:90%">
-<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations2.001.jpeg" alt="Slide34" style="width:90%">
+<img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentation2.001.jpeg" alt="Slide34" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.035.jpeg" alt="Slide35" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.036.jpeg" alt="Slide36" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.037.jpeg" alt="Slide37" style="width:90%">
