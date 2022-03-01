@@ -43,16 +43,28 @@ Today's workshop slides can be downloaded [here](http://NatyaHans.github.io/Work
 - We can zoom in to geographic location and filter the sample collection date by weekly, monthly and daily drop down options and the release date by Genbank ( the date when the data became available to download)
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.023.jpeg" alt="Slide23" style="width:90%">
 
-- For example we can narrow in on the samples collected from Florida on a weekly basis.
+- For example we can narrow in on the samples collected from Florida on a weekly basis and released on weekly basis 
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.024.jpeg" alt="Slide24" style="width:90%">
 
-
+- Since 4 million records are too many, we are going to download a subset of data which might be more relevant to our research question. We can click on refine results to find these records by several criterias
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.025.jpeg" alt="Slide25" style="width:90%">
+
+- For this tutorial, we are going to focus on complete nucleotide sequences, narrow our search to USA as the geographic location and use lung as the source of sample. But for your own practice and once you are familiar with the tutorial, it might make more sense to download the saliva sample to look for variability.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.026.jpeg" alt="Slide26" style="width:90%">
+
+- Let's select all of these sequences and click align
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.027.jpeg" alt="Slide27" style="width:90%">
+
+- This is what an alignment looks like, it is color coded for the bases (A,T,C,G). The columns are the position within a single genome and there are 74 genomes which are represented by rows. So each row is a genome. This is a good visualization tool to look for variability between genomes.
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.028.jpeg" alt="Slide28" style="width:90%">
+
+- Now let's build a tree to figure out the evolutionary relationships between these genomes. 
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.029.jpeg" alt="Slide29" style="width:90%">
+
+- What you see now is a phylogenetic tree which depicts evolutionary relationships between individuals. 
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.030.jpeg" alt="Slide30" style="width:90%">
+
+
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.031.jpeg" alt="Slide31" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.032.jpeg" alt="Slide32" style="width:90%">
 <img src="https://raw.githubusercontent.com/NatyaHans/Workshops/master/Images/SARSCoVPresentations.033.jpeg" alt="Slide33" style="width:90%">
